@@ -1,0 +1,20 @@
+.text_cell_render p {
+    font-family: "Cambria Math";
+    font-size: 11pt;
+    line-height: 115%;
+    text-align: justify;
+    text-justify: inter-word;
+    word-wrap: break-word;
+#    color: #377ff2; COLORE BELLISSIMO DI LUCA
+}
+
+.CodeMirror pre p {
+    font-family: "Ubuntu Mono", monospace;
+    font-size: 14pt;
+}
+
+h1, h2, h3, h4, h5 {
+    font-size: 110%;
+    font-family: "Cambria Title";
+    color: #377ff2;
+}
