@@ -17,6 +17,8 @@ git clone https://baltig.infn.it/clissa/cell_counting_AML
 
 Once the download is finished, enter the cell_counting_AML directory and setup a conda environment using the requirements.txt.
 
+*N.B. tested only on ubuntu 18.04*
+
 ```r
 cd cell_counting_AML
 conda create --name <env> --file requirements.txt
